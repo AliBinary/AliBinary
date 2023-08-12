@@ -1,13 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EF71F&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali!;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Front-End+Dev.;Always+learning+%F0%9F%A4%96)](https://git.io/typing-svg)
 
+[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf)
+[![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/EnAnsari/EnAnsari)
+[![de](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/EnAnsari/EnAnsari)
+
 - 👀 I’m interested in mathematics
 - 🏫 currently studying Computer Science at Hakim Sabzevari University in Iran
 - 🌱 learning Front-End Web development
 - 💬 Ask me about anything, i am happy to help
 - ⭐ The fastest way to contact me is <a href="mailto:AliGhanbariCs@gmail.com">my email</a>
 
+<details>
+<summary> <h2> 🚀 languages and tools:</h2> </summary>
 
-<h2> 🚀 &nbsp;languages and tools:</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
@@ -30,19 +35,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
   <img src="xxx" alt="xxx" width="45" height="45" /> -->
 </p>
-
-<details>
-  <summary> :fire: My Stats</summary>
-  <br>
-  <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent" alt="GitHub Streak" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent" alt="GitHub Top Languages" />
 </details>
 
 
+<details>
+<summary> <h2> 🔥 My Stats: </h2> </summary>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent)](https://github.com/AliGhanbariCs)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent)](https://github.com/AliGhanbariCs)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent" alt="Top Languages">
+</details>
+
+
+<details>
+<summary> <h2> 🍕 Support: </h2> </summary>
+
 If you like what I do OR want to make me happy for any reason, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/AliGhanbarCs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<p align="center"> <a href="https://www.buymeacoffee.com/AliGhanbarCs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> <p/>
+</details>
 
 
 <p align="center"> 
