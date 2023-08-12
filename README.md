@@ -1,21 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EF71F&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali!;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Front-End+Dev.;Always+learning+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 - 👀 I’m interested in mathematics
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Front-End
 - 💬 Ask me about anything
-- ⭐ The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a>
-- 🔗 <a href="https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md">link of my repositories in hakim sabzevari university</a>
+- ⭐ The fastest way to contact me is <a href="mailto:AliGhanbari@gmail.com">my email</a>
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -50,8 +38,8 @@ Here are some ideas to get you started:
   <br>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-![Rahmat's github stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=gotham) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=gotham&layout=compact)](https://github.com/enansari/enansari)<br>
+![AliGhanbariCs's github stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=gotham) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=gotham&layout=compact)](https://github.com/AliGhanbariCs/AliGhanbariCs)<br>
 
 </details>
 
@@ -59,4 +47,3 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AliGhanbariCs/count.svg" />
 </p>
-<!-- copyright 2023 AliGhanbariCs -->
