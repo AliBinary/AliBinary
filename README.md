@@ -38,11 +38,15 @@
   <summary> :fire: My Stats</summary>
   <br>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent)](https://git.io/streak-stats)<br>
-![Ali's github stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent)](https://github.com/AliGhanbariCs/AliGhanbariCs)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent)](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
+[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 </details>
+
+If you like what I do OR want to make me happy for any reason, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/AliGhanbarCs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <p align="center"> 
   Visitor count<br>
