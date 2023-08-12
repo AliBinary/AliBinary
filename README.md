@@ -11,7 +11,7 @@
 - ⭐ The fastest way to contact me is <a href="mailto:AliGhanbariCs@gmail.com">my email</a>
 
 <details>
-<summary> <h2> 🚀 languages and tools:</h2> </summary>
+  <summary> <h2> 🚀 languages and tools:</h2> </summary>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
@@ -39,7 +39,7 @@
 
 
 <details>
-<summary> <h2> 🔥 My Stats: </h2> </summary>
+  <summary> <h2> 🔥 My Stats: </h2> </summary>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent)](https://github.com/AliGhanbariCs)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent)](https://github.com/AliGhanbariCs)
@@ -49,7 +49,7 @@
 
 
 <details>
-<summary> <h2> 🍕 Support: </h2> </summary>
+  <summary> <h2> 🍕 Support: </h2> </summary>
 
 If you like what I do OR want to make me happy for any reason, maybe consider buying me a coffee/tea 🥺👉👈
 
