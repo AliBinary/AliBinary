@@ -37,9 +37,9 @@
   <summary> :fire: My Stats</summary>
   <br>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-![AliGhanbariCs's github stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=gotham) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=gotham&layout=compact)](https://github.com/AliGhanbariCs/AliGhanbariCs)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent)](https://git.io/streak-stats)<br>
+![Ali's github stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent)](https://github.com/AliGhanbariCs/AliGhanbariCs)<br>
 
 </details>
 
