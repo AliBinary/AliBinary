@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EF71F&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali!;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Front-End+Dev.;Always+learning+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 - 👀 I’m interested in mathematics
-- 🌱 I’m currently learning Front-End
-- 💬 Ask me about anything
-- ⭐ The fastest way to contact me is <a href="mailto:AliGhanbari@gmail.com">my email</a>
+- 🏫 currently studying Computer Science at Hakim Sabzevari University in Iran
+- 🌱 learning Front-End Web development
+- 💬 Ask me about anything, i am happy to help
+- ⭐ The fastest way to contact me is <a href="mailto:AliGhanbariCs@gmail.com">my email</a>
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;languages and tools:</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
