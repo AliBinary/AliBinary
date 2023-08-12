@@ -4,6 +4,7 @@
 [![persian](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/AliGhanbariCs)
 [![Deutsch](https://img.shields.io/badge/language-English-green.svg)](https://github.com/AliGhanbariCs)
 
+
 - 👀 I’m interested in mathematics
 - 🏫 currently studying Computer Science at Hakim Sabzevari University in Iran
 - 🌱 learning Front-End Web development
@@ -11,7 +12,33 @@
 - ⭐ The fastest way to contact me is <a href="mailto:AliGhanbariCs@gmail.com">my email</a>
 
 <details>
-  <summary> <h2> 🚀 languages and tools:</h2> </summary>
+  <summary> <h2> 📫 How to reach me: </h2> </summary>
+
+<p align="left">
+  <a href="https://t.me/AliGhanbariCs">
+    <img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram%3A%40AliGhanbariCs-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://virgool.io/@AliGhanbariCs">
+    <img alt="Virgool Badge" src="https://img.shields.io/badge/virgool-black?style=for-the-badge&logo=overleaf&logoColor=white">
+  <a href="https://stackoverflow.com/users/18079871/aligh">
+    <img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-gold?style=for-the-badge&logo=stackoverflow&logoColor=black"></a>
+</p>
+</details>
+
+
+<details>
+  <summary> <h2> ☠️ My accounts on challenge websites </h2> </summary>
+  
+<p align="left">
+  <a href="https://quera.org/profile/AliTitan051">
+    <img alt="Static Badge" src="https://img.shields.io/badge/quera-blue?style=for-the-badge&logoColor=white">
+  <a href="https://codeforces.com/profile/AliTitan051">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=black">
+</p>
+</details>
+
+
+<details>
+  <summary> <h2> 🚀 languages and tools: </h2> </summary>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
@@ -44,7 +71,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent)](https://github.com/AliGhanbariCs)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent)](https://github.com/AliGhanbariCs)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent" alt="Top Languages">
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent" alt="Top Languages">
 </details>
 
 
@@ -53,7 +80,7 @@
 
 If you like what I do OR want to make me happy for any reason, maybe consider buying me a coffee/tea 🥺👉👈
 
-<p align="center"> <a href="https://www.buymeacoffee.com/AliGhanbarCs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> <p/>
+  <p align="center"> <a href="https://www.buymeacoffee.com/AliGhanbarCs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> <p/>
 </details>
 
 
