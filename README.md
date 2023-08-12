@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EF71F&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali!;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Front-End+Dev.;Always+learning+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf)
-[![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/EnAnsari/EnAnsari)
-[![de](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/EnAnsari/EnAnsari)
+[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/AliGhanbariCs/AliGhanbariCs/releases/download/0/ghanbari-resume.pdf)
+[![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/AliGhanbariCs/AliGhanbariCs)
+[![de](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/AliGhanbariCs/AliGhanbariCs)
 
 - 👀 I’m interested in mathematics
 - 🏫 currently studying Computer Science at Hakim Sabzevari University in Iran
