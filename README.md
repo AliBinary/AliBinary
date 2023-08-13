@@ -11,6 +11,7 @@
 - 💬 Ask me about anything, i am happy to help
 - ⭐ The fastest way to contact me is <a href="mailto:AliGhanbariCs@gmail.com">my email</a>
 
+
 <details>
   <summary> <h2> 📫 How to reach me: </h2> </summary>
 
@@ -18,7 +19,7 @@
   <a href="https://t.me/AliGhanbariCs">
     <img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram%3A%40AliGhanbariCs-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://virgool.io/@AliGhanbariCs">
-    <img alt="Virgool Badge" src="https://img.shields.io/badge/virgool-black?style=for-the-badge&logoColor=white">
+    <img alt="Virgool Badge" src="https://img.shields.io/badge/virgool-white?style=for-the-badge&logoColor=black"></a>
   <a href="https://stackoverflow.com/users/18079871/aligh">
     <img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-gold?style=for-the-badge&logo=stackoverflow&logoColor=black"></a>
 </p>
@@ -30,9 +31,9 @@
   
 <p align="left">
   <a href="https://quera.org/profile/AliTitan051">
-    <img alt="Static Badge" src="https://img.shields.io/badge/quera-blue?style=for-the-badge&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/quera-blue?style=for-the-badge&logoColor=white"></a>
   <a href="https://codeforces.com/profile/AliTitan051">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=black"></a>
 </p>
 </details>
 
@@ -41,37 +42,41 @@
   <summary> <h2> 🚀 languages and tools: </h2> </summary>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="qt" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="qt" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45">
   <!-- i love to learn these too:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-  <img src="xxx" alt="xxx" width="45" height="45" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45">
+  <img src="xxx" alt="xxx" width="45" height="45"> -->
 </p>
 </details>
 
 
 <details>
   <summary> <h2> 🔥 My Stats: </h2> </summary>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent"></a>
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent" alt="Top Languages"></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent" alt="Top Languages"></p>
 </details>
 
 
@@ -86,5 +91,5 @@ If you like what I do OR want to make me happy for any reason, maybe consider bu
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AliGhanbariCs/count.svg" />
+  <img src="https://profile-counter.glitch.me/AliGhanbariCs/count.svg">
 </p>
