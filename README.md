@@ -2,7 +2,7 @@
 
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/AliGhanbariCs/AliGhanbariCs/releases/download/0/Ghanbari-resume.pdf)
 [![persian](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/AliGhanbariCs)
-[![Deutsch](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/AliGhanbariCs)
+<!-- [![Deutsch](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/AliGhanbariCs) -->
 
 
 - 👀 I’m interested in mathematics
@@ -18,7 +18,7 @@
   <a href="https://t.me/AliGhanbariCs">
     <img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram%3A%40AliGhanbariCs-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://virgool.io/@AliGhanbariCs">
-    <img alt="Virgool Badge" src="https://img.shields.io/badge/virgool-black?style=for-the-badge&logo=overleaf&logoColor=white">
+    <img alt="Virgool Badge" src="https://img.shields.io/badge/virgool-black?style=for-the-badge&logoColor=white">
   <a href="https://stackoverflow.com/users/18079871/aligh">
     <img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-gold?style=for-the-badge&logo=stackoverflow&logoColor=black"></a>
 </p>
@@ -68,10 +68,10 @@
 <details>
   <summary> <h2> 🔥 My Stats: </h2> </summary>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent)](https://github.com/AliGhanbariCs)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent)](https://github.com/AliGhanbariCs)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent" alt="Top Languages">
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent" alt="Top Languages"></p>
 </details>
 
 
