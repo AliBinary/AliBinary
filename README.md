@@ -13,7 +13,7 @@
 
 
 <details>
-  <summary> <h2> 📫 How to reach me: </h2> </summary>
+  <summary> <h3> 📫 How to reach me: </h3> </summary>
 
 <p align="left">
   <a href="https://t.me/AliGhanbariCs">
@@ -27,7 +27,7 @@
 
 
 <details>
-  <summary> <h2> ☠️ My accounts on challenge websites </h2> </summary>
+  <summary> <h3> ☠️ My accounts on challenge websites </h3> </summary>
   
 <p align="left">
   <a href="https://quera.org/profile/AliTitan051">
@@ -39,7 +39,7 @@
 
 
 <details>
-  <summary> <h2> 🚀 languages and tools: </h2> </summary>
+  <summary> <h3> 🚀 languages and tools: </h3> </summary>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45">
@@ -67,7 +67,7 @@
 
 
 <details>
-  <summary> <h2> 🔥 My Stats: </h2> </summary>
+  <summary> <h3> 🔥 My Stats: </h3> </summary>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent"></a>
@@ -81,7 +81,7 @@
 
 
 <details>
-  <summary> <h2> 🍕 Support: </h2> </summary>
+  <summary> <h3> 🍕 Support: </h3> </summary>
 
 If you like what I do OR want to make me happy for any reason, maybe consider buying me a coffee/tea 🥺👉👈
 
