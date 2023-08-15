@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=34FF1F&width=555&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali;I+love+programming+%E2%9D%A4%EF%B8%8F;Python+Developer;Always+learning+new+things!+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=34FF1F&width=555&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali;I+love+Zahra+%E2%9D%A4%EF%B8%8F;Python+Developer;Always+learning+new+things!+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/AliGhanbariCs/AliGhanbariCs/releases/download/0/Ghanbari-resume.pdf)
 [![persian](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/AliGhanbariCs)
