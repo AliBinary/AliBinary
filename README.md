@@ -34,7 +34,14 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/quera-blue?style=for-the-badge&logoColor=white"></a>
   <a href="https://codeforces.com/profile/AliTitan051">
     <img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=black"></a>
-</p>
+
+  </p>
+  <a href="https://projecteuler.net/friends">
+    <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%91%87My%20Key%20in%20Project%20Euler%F0%9F%91%87-orange?style=for-the-badge"></a>
+
+```
+2088670_dqAvk5RcUC2v9tJf6FrcZ77c17Zdk2Aq
+```
 </details>
 
 
