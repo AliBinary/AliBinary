@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=34FF1F&width=555&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali;I+love+Programming+%E2%9D%A4%EF%B8%8F;Python+Developer;Always+learning+new+things!+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/AliGhanbariCs/AliGhanbariCs/releases/download/0/Ghanbari-resume.pdf)
-[![persian](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/AliGhanbariCs)
-<!-- [![Deutsch](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/AliGhanbariCs) -->
+[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/AliBinary/AliBinary/releases/download/0/Ghanbari-resume.pdf)
+[![persian](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/AliBinary)
+<!-- [![Deutsch](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/AliBinary) -->
 
 
 - 👀 I’m interested in mathematics
@@ -77,13 +77,13 @@
   <summary> <h3> 🔥 My Stats: </h3> </summary>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AliGhanbariCs&theme=transparent"></a>
+    <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AliBinary&theme=transparent"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AliGhanbariCs&show_icons=true&theme=transparent"></a>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AliBinary&show_icons=true&theme=transparent"></a>
 </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanbariCs&theme=transparent" alt="Top Languages"></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBinary&theme=transparent" alt="Top Languages"></p>
 </details>
 
 
@@ -98,5 +98,5 @@ If you like what I do OR want to make me happy for any reason, maybe consider bu
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AliGhanbariCs/count.svg">
+  <img src="https://profile-counter.glitch.me/AliBinary/count.svg">
 </p>
