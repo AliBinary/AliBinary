@@ -88,6 +88,14 @@
 
 
 <details>
+  <summary> <h3> 🏆 GitHub Trophies: </h3> </summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=AliBinary&theme=flat&row=1"></a>
+
+</details>
+
+
+<details>
   <summary> <h3> 🍕 Support: </h3> </summary>
 
 If you like what I do OR want to make me happy for any reason, maybe consider buying me a coffee/tea 🥺👉👈
