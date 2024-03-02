@@ -5,9 +5,10 @@
 <!-- [![Deutsch](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/AliBinary) -->
 
 
-- 👀 I’m interested in mathematics
+- 👀 I’m interested in mathematics & Algorithm
 - 🏫 currently studying Computer Science at Hakim Sabzevari University in Iran
 - 🌱 learning Front-End Web development
+- 😍 Currently, I am enjoying competitive programming competitions!
 - 💬 Ask me about anything, i am happy to help
 - ⭐ The fastest way to contact me is <a href="mailto:AliGhanbariCs@gmail.com">my email</a>
 
