@@ -163,6 +163,21 @@
             width="45"
             height="45"
         />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+            alt="matlab"
+            width="45"
+            height="45"
+        />
+        <svg src=""
+            alt="markdown"
+            width="45"
+            height="45"
+        />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+            alt="matplotlib"
+            width="45"
+            height="45"
+        />
         <!-- i love to learn these too:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45">
