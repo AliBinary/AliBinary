@@ -34,7 +34,7 @@
 </ul>
 
 <details>
-    <summary>📫 (click to expand) <strong>How to reach me</strong></summary>
+    <summary>📫 (click to expand) <strong>How To Reach Me</strong></summary>
     <br />
     <div align="center">
         <a href="https://t.me/AliGhanbariCs"
@@ -57,7 +57,7 @@
 
 <details>
     <summary>
-        ☠️ (click to expand) <strong>My accounts on challenge websites</strong>
+        ☠️ (click to expand) <strong>My Accounts On Competitive Programming Websites</strong>
     </summary>
     <br />
     <div align="center">
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-    <summary>🚀 (click to expand) <strong>languages and tools</strong></summary>
+    <summary>🚀 (click to expand) <strong>Languages And Tools</strong></summary>
     <br />
     <div align="center">
         <img
@@ -224,7 +224,7 @@
 </details>
 
 <div align="center">
-    <strong>Visitor count</strong>
+    <strong>Visitor Count</strong>
     <br />
     <img src="https://profile-counter.glitch.me/AliBinary/count.svg" />
 </div>
