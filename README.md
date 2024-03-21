@@ -19,7 +19,7 @@
 <ul>
     <li>👀 I’m interested in mathematics & Algorithm</li>
     <li>
-        🏫 Bachelor's degree computer science student at Hakim Sabzevari University in Iran
+        🏫 Bachelor's degree computer science student at Hakim Sabzevari University in Iran 🇮🇷
     </li>
     <li>🌱 learning Front-End Web development</li>
     <li>😍 Currently, I'm enjoying competitive programming competitions</li>
