@@ -60,6 +60,7 @@
     <summary>
         ☠️ (click to expand)
         <strong>My Accounts On Competitive Programming Websites</strong>
+        💪
     </summary>
     <br />
     <div align="center">
@@ -93,105 +94,177 @@
     <summary>🚀 (click to expand) <strong>Languages And Tools</strong></summary>
     <br />
     <div align="center">
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-            alt="vscode"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-            alt="python"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-            alt="numpy"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
-            alt="pycharm"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            alt="c"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-            alt="c++"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-            alt="jupyter"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-            alt="pandas"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"
-            alt="qt"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
-            alt="vim"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-            alt="figma"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-            alt="git"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
-            alt="matlab"
-            width="45"
-            height="45"
-        />
-        <svg src="" alt="markdown" width="45" height="45" />
-        <img
-            src="https://github.com/AliBinary/AliBinary/assets/98009880/9a1f5a08-3c79-4a71-affd-1af602bf3301"
-            alt="markdown"
-            width="45"
-            height="45"
-        />
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
-            alt="matplotlib"
-            width="45"
-            height="45"
-        />
-        <!-- i love to learn these too:
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45">
+        <ul>
+            <li>
+                <h5>Programming Languages</h5>
+                <a href="https://www.w3schools.com/python/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+                        alt="python"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.w3schools.com/c/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+                        alt="c"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.w3schools.com/cpp/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+                        alt="c++"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.tutorialspoint.com/matlab/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+                        alt="matlab"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+            </li>
+            <li>
+                <h5>Web Development</h5>
+                <a href="https://www.w3schools.com/html/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                        alt="html5"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.w3schools.com/css/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                        alt="css3"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+            </li>
+            <li>
+                <h5>GUI / Design</h5>
+                <a href="https://www.figma.com/resource-library/design-basics/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+                        alt="figma"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.pythonguis.com/pyqt5-tutorial/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"
+                        alt="pyqt"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+            </li>
+            <li>
+                <h5>AI / ML</h5>
+                <a href="https://www.freecodecamp.org/news/tensorflow-basics/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+                        alt="tensorflow"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.w3schools.com/python/pandas/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+                        alt="pandas"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.w3schools.com/python/numpy/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+                        alt="numpy"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+            </li>
+            <li>
+                <h5>Code Editor & IDE</h5>
+                <a href="https://code.visualstudio.com/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+                        alt="vscode"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a
+                    href="https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/"
+                >
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
+                        alt="vim for vscode"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://jupyter.org/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+                        alt="jupyter"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.jetbrains.com/pycharm/">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
+                        alt="pycharm"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+            </li>
+            <li>
+                <h5>Others</h5>
+                <a href="https://codewithmosh.com/p/the-ultimate-git-course">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                        alt="git"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.markdowntutorial.com/">
+                    <img
+                        src="https://github.com/AliBinary/AliBinary/assets/98009880/9a1f5a08-3c79-4a71-affd-1af602bf3301"
+                        alt="markdown"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://www.w3schools.com/python/matplotlib_intro.asp">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+                        alt="matplotlib"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+            </li>
+            <!-- i love to learn these too:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45">
             <img src="xxx" alt="xxx" width="45" height="45"> -->
+        </ul>
     </div>
 </details>
 
