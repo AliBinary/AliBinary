@@ -19,7 +19,8 @@
 <ul>
     <li>👀 I’m interested in mathematics & Algorithm</li>
     <li>
-        🏫 Bachelor's degree computer science student at Hakim Sabzevari University in Iran 🇮🇷
+        🏫 Bachelor's degree computer science student at Hakim Sabzevari
+        University in Iran 🇮🇷
     </li>
     <li>🌱 learning Front-End Web development</li>
     <li>😍 Currently, I'm enjoying competitive programming competitions</li>
@@ -57,7 +58,8 @@
 
 <details>
     <summary>
-        ☠️ (click to expand) <strong>My Accounts On Competitive Programming Websites</strong>
+        ☠️ (click to expand)
+        <strong>My Accounts On Competitive Programming Websites</strong>
     </summary>
     <br />
     <div align="center">
@@ -163,17 +165,21 @@
             width="45"
             height="45"
         />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
             alt="matlab"
             width="45"
             height="45"
         />
-        <svg src=""
+        <svg src="" alt="markdown" width="45" height="45" />
+        <img
+            src="https://github.com/AliBinary/AliBinary/assets/98009880/9a1f5a08-3c79-4a71-affd-1af602bf3301"
             alt="markdown"
             width="45"
             height="45"
         />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
             alt="matplotlib"
             width="45"
             height="45"
