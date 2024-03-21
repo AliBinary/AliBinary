@@ -16,6 +16,8 @@
 /></a>
 <!-- <a href = "https://github.com/AliBinary"><img alt = "Deutsch" src = "https://img.shields.io/badge/language-Deutsch-yellow.svg"></a> -->
 
+<img  width='95%' src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d">
+
 <ul>
     <li>👀 I’m interested in mathematics & Algorithm</li>
     <li>
@@ -33,6 +35,8 @@
         <a href="mailto:AliGhanbariCs@gmail.com">my email</a>
     </li>
 </ul>
+
+<img  width='95%' src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d">
 
 <details>
     <summary>📫 (click to expand) <strong>How To Reach Me</strong></summary>
