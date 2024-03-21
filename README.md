@@ -100,7 +100,7 @@
     <div align="center">
         <ul>
             <li>
-                <h5>Programming Languages</h5>
+                <h3>Programming Languages</h3>
                 <a href="https://www.w3schools.com/python/">
                     <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -135,7 +135,7 @@
                 </a>
             </li>
             <li>
-                <h5>Web Development</h5>
+                <h3>Web Development</h3>
                 <a href="https://www.w3schools.com/html/">
                     <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -154,7 +154,7 @@
                 </a>
             </li>
             <li>
-                <h5>GUI / Design</h5>
+                <h3>GUI / Design</h3>
                 <a href="https://www.figma.com/resource-library/design-basics/">
                     <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
@@ -173,7 +173,7 @@
                 </a>
             </li>
             <li>
-                <h5>AI / ML</h5>
+                <h3>AI / ML</h3>
                 <a href="https://www.freecodecamp.org/news/tensorflow-basics/">
                     <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
@@ -200,7 +200,7 @@
                 </a>
             </li>
             <li>
-                <h5>Code Editor & IDE</h5>
+                <h3>Code Editor & IDE</h3>
                 <a href="https://code.visualstudio.com/">
                     <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
@@ -237,7 +237,7 @@
                 </a>
             </li>
             <li>
-                <h5>Others</h5>
+                <h3>Others</h3>
                 <a href="https://codewithmosh.com/p/the-ultimate-git-course">
                     <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
