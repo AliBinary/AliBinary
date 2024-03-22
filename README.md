@@ -27,11 +27,11 @@
     <li>🌱 learning Front-End Web development</li>
     <li>😍 Currently, I'm enjoying competitive programming competitions</li>
     <li>
-        💬 Ask me about competitive programming and front-end programming, I'll
+        💬 Ask me about competitive programming, Mathematics and front-end Dev, I'll
         be happy to help
     </li>
     <li>
-        ⭐ The fastest way to cotact me is
+        ⭐ The fastest way to contact me is
         <a href="mailto:AliGhanbariCs@gmail.com">my email</a>
     </li>
 </ul>
@@ -42,20 +42,25 @@
     <summary>📫 (click to expand) <strong>How To Reach Me</strong></summary>
     <br />
     <div align="center">
-        <a href="https://t.me/AliGhanbariCs"
+        <a href="https://t.me/AliTitan051"
             ><img
                 alt="Telegram Badge"
-                src="https://img.shields.io/badge/Telegram%3A%40AliGhanbariCs-blue?style=for-the-badge&logo=telegram&logoColor=white"
+                src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
         /></a>
         <a href="https://virgool.io/@AliGhanbariCs"
             ><img
                 alt="Virgool Badge"
                 src="https://img.shields.io/badge/virgool-white?style=for-the-badge&logoColor=black"
         /></a>
-        <a href="https://stackoverflow.com/users/18079871/aligh"
+        <a href="https://stackoverflow.com/users/18079871/alibinary"
             ><img
-                alt="Static Badge"
+                alt="StackOverFlow Badge"
                 src="https://img.shields.io/badge/stackoverflow-gold?style=for-the-badge&logo=stackoverflow&logoColor=black"
+        /></a>
+        <a href="https://www.linkedin.com/in/alighanbari2003"
+            ><img 
+                alt="LinkedIn Badge"
+                src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"
         /></a>
     </div>
 </details>
@@ -68,7 +73,7 @@
     </summary>
     <br />
     <div align="center">
-        <a href="https://quera.org/profile/AliTitan051"
+        <a href="https://quera.org/profile/AliBinary"
             ><img
                 alt="Static Badge"
                 src="https://img.shields.io/badge/quera-blue?style=for-the-badge&logoColor=white"
@@ -231,6 +236,14 @@
                     <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
                         alt="pycharm"
+                        width="45"
+                        height="45"
+                    />
+                </a>
+                <a href="https://colab.research.google.com/">
+                    <img
+                        src="https://github.com/AliBinary/AliBinary/assets/98009880/f86dc87c-2a8c-4eb0-8db9-465abb0cf359"
+                        alt="google colab"
                         width="45"
                         height="45"
                     />
