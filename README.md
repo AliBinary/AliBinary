@@ -16,7 +16,10 @@
 /></a>
 <!-- <a href = "https://github.com/AliBinary"><img alt = "Deutsch" src = "https://img.shields.io/badge/language-Deutsch-yellow.svg"></a> -->
 
-<img  width='95%' src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d">
+<img
+    width="95%"
+    src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"
+/>
 
 <ul>
     <li>👀 I’m interested in mathematics & Algorithm</li>
@@ -27,8 +30,8 @@
     <li>🌱 learning Front-End Web development</li>
     <li>😍 Currently, I'm enjoying competitive programming competitions</li>
     <li>
-        💬 Ask me about competitive programming, Mathematics and front-end Dev, I'll
-        be happy to help
+        💬 Ask me about competitive programming, Mathematics and front-end Dev,
+        I'll be happy to help
     </li>
     <li>
         ⭐ The fastest way to contact me is
@@ -36,7 +39,10 @@
     </li>
 </ul>
 
-<img  width='95%' src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d">
+<img
+    width="95%"
+    src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"
+/>
 
 <details>
     <summary>📫 (click to expand) <strong>How To Reach Me</strong></summary>
@@ -58,7 +64,7 @@
                 src="https://img.shields.io/badge/stackoverflow-gold?style=for-the-badge&logo=stackoverflow&logoColor=black"
         /></a>
         <a href="https://www.linkedin.com/in/alighanbari2003"
-            ><img 
+            ><img
                 alt="LinkedIn Badge"
                 src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"
         /></a>
