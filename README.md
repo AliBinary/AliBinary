@@ -71,6 +71,11 @@
                         alt="LinkedIn Badge"
                         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"
                 /></a>
+                <a href="https://www.w3profile.com/AliBinary"
+                    ><img
+                         alt="W3schools Badge"
+                         src="https://img.shields.io/badge/w3schools-darkgreen?style=for-the-badge&logo=w3schools&logoColor=white"
+                /></a>
             </div>
         </details>
         <details>
