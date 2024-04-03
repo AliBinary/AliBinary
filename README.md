@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <a href="https://git.io/typing-svg"
+        <a href="https://git.io/typing-svg" target="_blank"
             ><img
                 alt="Typing SVG"
                 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=34FF1F&width=555&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali!;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Front-end+dev.;Always+learning+%F0%9F%A4%96"
         /></a>
         <br />
-        <a href="https://github.com/AliBinary"
+        <a href="https://github.com/AliBinary" target="_blank"
             ><img
                 alt="Resume"
                 src="https://img.shields.io/badge/download-resume-blue.svg"
         /></a>
-        <a href="https://github.com/AliBinary"
+        <a href="https://github.com/AliBinary" target="_blank"
             ><img
                 alt="Persian"
                 src="https://img.shields.io/badge/language-Persian-red.svg"
@@ -30,7 +30,8 @@
             </li>
             <li>🌱 learning Front-End Web development</li>
             <li>
-                😍 Currently, I'm enjoying competitive programming competitions (with cpp)
+                😍 Currently, I'm enjoying competitive programming competitions
+                (with cpp)
             </li>
             <li>
                 💬 Ask me about competitive programming, Mathematics and
@@ -38,7 +39,9 @@
             </li>
             <li>
                 ⭐ The fastest way to contact me is
-                <a href="mailto:AliGhanbariCs@gmail.com">my email</a>
+                <a href="mailto:AliGhanbariCs@gmail.com" target="_blank"
+                    >my email</a
+                >
             </li>
         </ul>
         <img
@@ -51,30 +54,34 @@
             </summary>
             <br />
             <div align="center">
-                <a href="https://t.me/AliTitan051"
+                <a href="https://t.me/AliTitan051" target="_blank"
                     ><img
                         alt="Telegram Badge"
                         src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
                 /></a>
-                <a href="https://virgool.io/@AliGhanbariCs"
+                <a href="https://virgool.io/@AliGhanbariCs" target="_blank"
                     ><img
                         alt="Virgool Badge"
                         src="https://img.shields.io/badge/virgool-white?style=for-the-badge&logoColor=black"
                 /></a>
-                <a href="https://stackoverflow.com/users/18079871/alibinary"
+                <a
+                    href="https://stackoverflow.com/users/18079871/alibinary"
+                    target="_blank"
                     ><img
                         alt="StackOverFlow Badge"
                         src="https://img.shields.io/badge/stackoverflow-gold?style=for-the-badge&logo=stackoverflow&logoColor=black"
                 /></a>
-                <a href="https://www.linkedin.com/in/alighanbari2003"
+                <a
+                    href="https://www.linkedin.com/in/alighanbari2003"
+                    target="_blank"
                     ><img
                         alt="LinkedIn Badge"
                         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"
                 /></a>
-                <a href="https://www.w3profile.com/AliBinary"
+                <a href="https://www.w3profile.com/AliBinary" target="_blank"
                     ><img
-                         alt="W3schools Badge"
-                         src="https://img.shields.io/badge/w3schools-darkgreen?style=for-the-badge&logo=w3schools&logoColor=white"
+                        alt="W3schools Badge"
+                        src="https://img.shields.io/badge/w3schools-darkgreen?style=for-the-badge&logo=w3schools&logoColor=white"
                 /></a>
             </div>
         </details>
@@ -86,23 +93,25 @@
             </summary>
             <br />
             <div align="center">
-                <a href="https://quera.org/profile/AliBinary"
+                <a href="https://quera.org/profile/AliBinary" target="_blank"
                     ><img
                         alt="Static Badge"
                         src="https://img.shields.io/badge/quera-blue?style=for-the-badge&logoColor=white"
                 /></a>
-                <a href="https://codeforces.com/profile/AliTitan051"
+                <a
+                    href="https://codeforces.com/profile/AliTitan051"
+                    target="_blank"
                     ><img
                         alt="Static Badge"
                         src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=black"
                 /></a>
-                <a href="https://leetcode.com/AliBinary/"
+                <a href="https://leetcode.com/AliBinary/" target="_blank"
                     ><img
                         src="https://img.shields.io/badge/leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"
                         alt="leetcode Badge"
                 /></a>
                 <br />
-                <a href="https://projecteuler.net/friends"
+                <a href="https://projecteuler.net/friends" target="_blank"
                     ><img
                         alt="Static Badge"
                         src="https://img.shields.io/badge/%F0%9F%91%87My%20Key%20in%20Project%20Euler%F0%9F%91%87-orange?style=for-the-badge"
@@ -120,7 +129,10 @@
                 <ul>
                     <li>
                         <h3>Programming Languages</h3>
-                        <a href="https://www.w3schools.com/python/">
+                        <a
+                            href="https://www.w3schools.com/python/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
                                 alt="python"
@@ -128,7 +140,7 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://www.w3schools.com/c/">
+                        <a href="https://www.w3schools.com/c/" target="_blank">
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
                                 alt="c"
@@ -136,7 +148,10 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://www.w3schools.com/cpp/">
+                        <a
+                            href="https://www.w3schools.com/cpp/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
                                 alt="c++"
@@ -144,7 +159,10 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://www.tutorialspoint.com/matlab/">
+                        <a
+                            href="https://www.tutorialspoint.com/matlab/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
                                 alt="matlab"
@@ -155,7 +173,10 @@
                     </li>
                     <li>
                         <h3>Web Development</h3>
-                        <a href="https://www.w3schools.com/html/">
+                        <a
+                            href="https://www.w3schools.com/html/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
                                 alt="html5"
@@ -163,7 +184,10 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://www.w3schools.com/css/">
+                        <a
+                            href="https://www.w3schools.com/css/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
                                 alt="css3"
@@ -176,6 +200,7 @@
                         <h3>GUI / Design</h3>
                         <a
                             href="https://www.figma.com/resource-library/design-basics/"
+                            target="_blank"
                         >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
@@ -184,7 +209,10 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://www.pythonguis.com/pyqt5-tutorial/">
+                        <a
+                            href="https://www.pythonguis.com/pyqt5-tutorial/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"
                                 alt="pyqt"
@@ -197,6 +225,7 @@
                         <h3>AI / ML</h3>
                         <a
                             href="https://www.freecodecamp.org/news/tensorflow-basics/"
+                            target="_blank"
                         >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
@@ -205,7 +234,10 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://www.w3schools.com/python/pandas/">
+                        <a
+                            href="https://www.w3schools.com/python/pandas/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
                                 alt="pandas"
@@ -213,7 +245,10 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://www.w3schools.com/python/numpy/">
+                        <a
+                            href="https://www.w3schools.com/python/numpy/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
                                 alt="numpy"
@@ -224,7 +259,10 @@
                     </li>
                     <li>
                         <h3>Code Editor & IDE</h3>
-                        <a href="https://code.visualstudio.com/">
+                        <a
+                            href="https://code.visualstudio.com/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
                                 alt="vscode"
@@ -234,6 +272,7 @@
                         </a>
                         <a
                             href="https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/"
+                            target="_blank"
                         >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
@@ -242,7 +281,7 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://jupyter.org/">
+                        <a href="https://jupyter.org/" target="_blank">
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
                                 alt="jupyter"
@@ -250,7 +289,10 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://www.jetbrains.com/pycharm/">
+                        <a
+                            href="https://www.jetbrains.com/pycharm/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
                                 alt="pycharm"
@@ -258,7 +300,10 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://colab.research.google.com/">
+                        <a
+                            href="https://colab.research.google.com/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://github.com/AliBinary/AliBinary/assets/98009880/f86dc87c-2a8c-4eb0-8db9-465abb0cf359"
                                 alt="google colab"
@@ -271,6 +316,7 @@
                         <h3>Others</h3>
                         <a
                             href="https://codewithmosh.com/p/the-ultimate-git-course"
+                            target="_blank"
                         >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -279,7 +325,10 @@
                                 height="45"
                             />
                         </a>
-                        <a href="https://www.markdowntutorial.com/">
+                        <a
+                            href="https://www.markdowntutorial.com/"
+                            target="_blank"
+                        >
                             <img
                                 src="https://github.com/AliBinary/AliBinary/assets/98009880/9a1f5a08-3c79-4a71-affd-1af602bf3301"
                                 alt="markdown"
@@ -289,6 +338,7 @@
                         </a>
                         <a
                             href="https://www.w3schools.com/python/matplotlib_intro.asp"
+                            target="_blank"
                         >
                             <img
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
@@ -310,12 +360,14 @@
             <summary>🔥 (click to expand) <strong>My Stats</strong></summary>
             <br />
             <div align="center">
-                <a href="https://git.io/streak-stats"
+                <a href="https://git.io/streak-stats" target="_blank"
                     ><img
                         alt="GitHub Streak"
                         src="http://github-readme-streak-stats.herokuapp.com?user=AliBinary&theme=transparent"
                 /></a>
-                <a href="https://github.com/anuraghazra/github-readme-stats"
+                <a
+                    href="https://github.com/anuraghazra/github-readme-stats"
+                    target="_blank"
                     ><img
                         alt="GitHub Stats"
                         src="https://github-readme-stats.vercel.app/api?username=AliBinary&show_icons=true&theme=transparent"
@@ -332,7 +384,9 @@
             </summary>
             <br />
             <div align="center">
-                <a href="https://github.com/ryo-ma/github-profile-trophy"
+                <a
+                    href="https://github.com/ryo-ma/github-profile-trophy"
+                    target="_blank"
                     ><img
                         alt="GitHub trophy"
                         src="https://github-profile-trophy.vercel.app/?username=AliBinary&theme=flat&row=1"
@@ -364,3 +418,4 @@
         </div>
     </body>
 </html>
+
