@@ -4,7 +4,7 @@
         <a href="https://git.io/typing-svg" target="_blank"
             ><img
                 alt="Typing SVG"
-                src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=34FF1F&width=555&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali!;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Front-end+dev.;Always+learning+%F0%9F%A4%96"
+                src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=555&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali Ghanbari;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Front-end+dev.;Always+learning+%F0%9F%A4%96"
         /></a>
         <br />
         <a href="https://github.com/AliBinary" target="_blank"
