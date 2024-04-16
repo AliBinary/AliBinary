@@ -86,7 +86,7 @@
                 <a href="https://ww.w3profile.com/alibinary" target="_blank"
                     ><img
                          alt="Cursera Badge"
-                         src="https://img.shields.io/badge/coursera-blue?style=for-the-badge&logo=coursera"
+                         src="https://img.shields.io/badge/coursera-darkblue?style=for-the-badge&logo=coursera"
                 /></a>
             </div>
         </details>
