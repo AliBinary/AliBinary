@@ -59,7 +59,7 @@
                         alt="Telegram Badge"
                         src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
                 /></a>
-                <a href="https://virgool.io/@AliGhanbariCs" target="_blank"
+                <a href="https://virgool.io/@AliBinary" target="_blank"
                     ><img
                         alt="Virgool Badge"
                         src="https://img.shields.io/badge/virgool-white?style=for-the-badge&logoColor=black"
@@ -72,7 +72,7 @@
                         src="https://img.shields.io/badge/stackoverflow-gold?style=for-the-badge&logo=stackoverflow&logoColor=black"
                 /></a>
                 <a
-                    href="https://www.linkedin.com/in/alighanbari2003"
+                    href="https://www.linkedin.com/in/AliBinary"
                     target="_blank"
                     ><img
                         alt="LinkedIn Badge"
