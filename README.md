@@ -83,7 +83,7 @@
                         alt="W3schools Badge"
                         src="https://img.shields.io/badge/w3schools-darkgreen?style=for-the-badge&logo=w3schools&logoColor=white"
                 /></a>
-                <a href="https://ww.w3profile.com/alibinary" target="_blank"
+                <a href="https://www.coursera.org/learner/alibinary" target="_blank"
                     ><img
                          alt="Cursera Badge"
                          src="https://img.shields.io/badge/coursera-darkblue?style=for-the-badge&logo=coursera"
