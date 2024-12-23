@@ -104,7 +104,7 @@
                         src="https://img.shields.io/badge/quera-blue?style=for-the-badge&logoColor=white"
                 /></a>
                 <a
-                    href="https://codeforces.com/profile/AliTitan051"
+                    href="https://codeforces.com/profile/AliGhanbari"
                     target="_blank"
                     ><img
                         alt="Static Badge"
