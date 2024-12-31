@@ -3,7 +3,7 @@
 <p align="center"><a href="https://git.io/typing-svg" target="_blank"  ><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=555&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali Ghanbari;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Front-end+dev.;Always+learning+%F0%9F%A4%96"/></a>
 </p>
 
-**<h3 align="center">How To Reach Me</h3>** 
+**<h3 align="center">How To Reach Me</h3>**
 
 <p align="center">
 <a href="https://github.com/AliBinary" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="36"></a>
@@ -37,17 +37,17 @@
 
 **<h3 align="center">🙃 Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Enhancing my competitive programming repository with advanced algorithms and Preparing for the Computer Science Graduate Exam to secure admission in Artificial Intelligence.**
+-   💼 I'm currently working on: **Enhancing my competitive programming repository with advanced algorithms and Preparing for the Computer Science Graduate Exam to secure admission in Artificial Intelligence.**
 
-- 🌱 I'm currently learning: **React library to strengthen my web development skills and Advanced problem-solving techniques for competitive programming.**
+-   🌱 I'm currently learning: **React library to strengthen my web development skills and Advanced problem-solving techniques for competitive programming.**
 
-- 💬 Ask me about: **How to improve and excel in competitive programming and Tips for mastering JavaScript and React for web development.**
+-   💬 Ask me about: **How to improve and excel in competitive programming and Tips for mastering JavaScript and React for web development.**
 
- **<h3 align="center">🌳 Skills</h3>**
+    **<h3 align="center">🌳 Skills</h3>**
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="36" alt="Python" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="36" alt="Pandas" style="margin-right: 18px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="36" alt="C++" style="margin-right: 18px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="36" alt="C" style="margin-right: 18px"> <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" height="36" alt="MATLAB" style="margin-right: 18px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="36" alt="JavaScript" style="margin-right: 18px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="36" alt="TypeScript" style="margin-right: 18px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="36" alt="jQuery" style="margin-right: 18px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="36" alt="React" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="36" alt="Figma" style="margin-right: 18px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="36" alt="MySQL" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="36" alt="Postman" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="36" alt="Visual Studio Code" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="36" alt="Vim" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white" height="36" alt="Notepad++" style="margin-right: 18px"></div>
 
- **<h3 align="center">🔥 GitHub Stats</h3>**
+**<h3 align="center">🔥 GitHub Stats</h3>**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliBinary&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
@@ -59,7 +59,7 @@
 <!--  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AliBinary&repo=&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" /> -->
 </p>
 
- **<h3 align="center">🏆 GitHub Trophies</h3>**
+**<h3 align="center">🏆 GitHub Trophies</h3>**
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" ><img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=AliBinary&theme=flat&row=1"/></a>
@@ -74,7 +74,7 @@
 ██╔══██║██║     ██║    ██╔══██╗██║██║╚██╗██║██╔══██║██╔══██╗  ╚██╔╝  
 ██║  ██║███████╗██║    ██████╔╝██║██║ ╚████║██║  ██║██║  ██║   ██║   
 ╚═╝  ╚═╝╚══════╝╚═╝    ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
-</pre>                                                                     
+</pre>
 
 ---
 
