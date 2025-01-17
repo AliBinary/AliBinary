@@ -80,11 +80,11 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliBinary&show_icons=true&theme=github_dark" alt="GitHub Stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBinary&hide_progress=true&theme=github_dark" alt="GitHub top-langs Card" />
+  <img src="https://streak-stats.demolab.com?user=AliBinary&theme=holi-theme" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AliBinary&theme=holi-theme" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBinary&hide_progress=true&theme=github_dark" alt="GitHub top-langs Card" />
 </div>
 
 <div align="center">
