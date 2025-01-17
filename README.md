@@ -58,8 +58,12 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBinary&hide_progress=true&theme=github_dark" alt="GitHub top-langs Card" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AliBinary&theme=holi-theme" alt="GitHub Streak" />
+</p>
+
 <!-- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AliBinary&layout=compact&theme=github_dark" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AliBinary&layout=compact&theme=github_dark" alt="WakaTime stats Card" />
 </p> -->
 
 **<h3 align="center">🏆 GitHub Trophies</h3>**
