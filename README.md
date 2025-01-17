@@ -58,10 +58,10 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="40" alt="TensorFlow">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="40" alt="PyTorch">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="40" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="40" alt="C">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" height="40" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="40" alt="C++">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" height="40" alt="MATLAB">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="40" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="40" alt="JavaScript">
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="40" alt="jQuery">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="40" alt="TypeScript">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="40" alt="Bootstrap">
