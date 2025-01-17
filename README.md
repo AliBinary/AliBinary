@@ -78,18 +78,18 @@
 
 **<h3 align="center">🔥 GitHub Stats</h3>**
 
-<p align="center">
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliBinary&show_icons=true&theme=github_dark" alt="GitHub Stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBinary&hide_progress=true&theme=github_dark" alt="GitHub top-langs Card" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=AliBinary&theme=holi-theme" alt="GitHub Streak" />
-</p>
+</div>
 
-<!-- <p align="center">
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AliBinary&layout=compact&theme=github_dark" alt="WakaTime stats Card" />
-</p> -->
+</div>
 
 **<h3 align="center">🏆 GitHub Trophies</h3>**
 
