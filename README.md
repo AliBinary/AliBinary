@@ -32,19 +32,22 @@
 
 <img width="95%" src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"/>
         
- **<h3 align="center">I’m Ali, a passionate Computer Science student at Hakim Sabzevari University, with a strong focus on Competitive Programming, Web Development (Frontend), and Artificial Intelligence. 🚀</h3>**
+ **<h3 align="center">I’m Ali, a passionate Computer Science student at Hakim Sabzevari University, with a strong focus on Full-Stack Web Development and Artificial Intelligence. 🚀</h3>**
 
 <img width="95%" src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"/>
 
+
 **<h3 align="center">🙃 Rapid Fire</h3>**
 
--   💼 I'm currently working on: **Enhancing my competitive programming repository with advanced algorithms and Preparing for the Computer Science Graduate Exam to secure admission in Artificial Intelligence.**
+-   💼 I'm currently working on: **Improving my problem-solving skills, data structures, and algorithm design in C++ for competitive programming. Additionally, I'm preparing for the Computer Science Graduate Exam to secure admission in the Soft Computing and Artificial Intelligence field.**
 
--   🌱 I'm currently learning: **React library to strengthen my web development skills and Advanced problem-solving techniques for competitive programming.**
+-   🌱 I'm currently learning: **React for frontend development and Python libraries for Artificial Intelligence, while also diving deeper into advanced algorithms for competitive programming.**
 
--   💬 Ask me about: **How to improve and excel in competitive programming and Tips for mastering JavaScript and React for web development.**
+-   💬 Ask me about: **My journey in competitive programming, how I approach learning new technologies (even as a beginner), or my experiences with React, Python, and AI. I'm still growing, but I'd love to share what I've learned so far!**
 
-    **<h3 align="center">🌳 Tech Stack & Tools 🛠️</h3>**
+-   🧩 Puzzle piece about me: **I'm passionate about music, speedcubing (Rubik's Cube competitions), mathematics, AI, competitive programming, chess, table tennis, and exploring the depths of philosophy!**
+
+**<h3 align="center">🌳 Tech Stack & Tools 🛠️</h3>**
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="36" alt="Python" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="36" alt="Pandas" style="margin-right: 18px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="36" alt="C++" style="margin-right: 18px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="36" alt="C" style="margin-right: 18px"> <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" height="36" alt="MATLAB" style="margin-right: 18px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="36" alt="JavaScript" style="margin-right: 18px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="36" alt="TypeScript" style="margin-right: 18px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="36" alt="jQuery" style="margin-right: 18px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="36" alt="React" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="36" alt="Figma" style="margin-right: 18px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="36" alt="MySQL" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="36" alt="Postman" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="36" alt="Visual Studio Code" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="36" alt="Vim" style="margin-right: 18px"> <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white" height="36" alt="Notepad++" style="margin-right: 18px"></div>
 
