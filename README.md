@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio-670aad?logo=visual-studio&logoColor=white" height="40" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Pycharm-2e2f33?logo=pycharm&logoColor=white" height="40" alt="pycharm">
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="40" alt="Vim">
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white" height="40" alt="Notepad++">
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepadplusplus&logoColor=white" height="40" alt="Notepad++">
 </div>
 
 **<h3 align="center">🔥 GitHub Stats</h3>**
