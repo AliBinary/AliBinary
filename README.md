@@ -84,7 +84,7 @@
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AliBinary&layout=compact&theme=github_dark" alt="WakaTime stats Card" />
+<!--  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AliBinary&layout=compact&theme=github_dark" alt="WakaTime stats Card" /> -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBinary&hide_progress=true&theme=github_dark" alt="GitHub top-langs Card" />
 </div>
 
