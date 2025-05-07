@@ -63,9 +63,13 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" height="40" alt="MATLAB">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="40" alt="JavaScript">
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="40" alt="jQuery">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="40" alt="TypeScript">
+  <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="40" alt="TypeScript">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="40" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="40" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-lightblue?logo=tailwindcss&logoColor=blue" height="40" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="40" alt="React"> -->
+  <img src="https://img.shields.io/badge/Dart-white?logo=dart&logoColor=blue" height="40" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=blue" height="40" alt="Flutter">
+  <img src="https://img.shields.io/badge/Android%20Studio-grey?logo=androidstudio&logoColor=green" height="40" alt="Android Studio">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="40" alt="Figma">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="40" alt="MySQL">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" alt="Postman">
