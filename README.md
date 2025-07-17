@@ -95,7 +95,7 @@
 **<h3 align="center">🔥 GitHub Stats</h3>**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliBinary&show_icons=true&theme=monokai" alt="GitHub Stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliBinary&rank_icon=percentile&show_icons=true&theme=monokai" alt="GitHub Stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com?user=AliBinary&theme=monokai" alt="GitHub Streak Card" />
 </div>
 
