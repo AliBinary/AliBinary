@@ -95,13 +95,13 @@
 **<h3 align="center">🔥 GitHub Stats</h3>**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliBinary&show_icons=true&theme=github_dark" alt="GitHub Stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=AliBinary&theme=holi-theme" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliBinary&show_icons=true&theme=monokai" alt="GitHub Stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=AliBinary&theme=monokai" alt="GitHub Streak Card" />
 </div>
 
 <div align="center">
-<!--  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AliBinary&layout=compact&theme=github_dark" alt="WakaTime stats Card" /> -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBinary&hide_progress=true&theme=github_dark" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AliBinary&layout=compact&theme=monokai&langs_count=8" alt="WakaTime stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBinary&layout=compact&theme=monokai&langs_count=8" alt="GitHub top-langs Card" />
 </div>
 
 ---
@@ -110,16 +110,5 @@
 **<h3 align="center">🏆 GitHub Trophies</h3>**
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" ><img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=AliBinary&theme=flat&row=1"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" ><img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=AliBinary&theme=monokai&row=1"/></a>
 </div>
-
----
-
-<pre>
- █████╗ ██╗     ██╗    ██████╗ ██╗███╗   ██╗ █████╗ ██████╗ ██╗   ██╗
-██╔══██╗██║     ██║    ██╔══██╗██║████╗  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝
-███████║██║     ██║    ██████╔╝██║██╔██╗ ██║███████║██████╔╝ ╚████╔╝ 
-██╔══██║██║     ██║    ██╔══██╗██║██║╚██╗██║██╔══██║██╔══██╗  ╚██╔╝  
-██║  ██║███████╗██║    ██████╔╝██║██║ ╚████║██║  ██║██║  ██║   ██║   
-╚═╝  ╚═╝╚══════╝╚═╝    ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
-</pre>
