@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img alt="Typing SVG not loaded" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=555&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali+Ghanbari;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Front-end+dev.;enjoy+building+Flutter+apps;Always+learning+%F0%9F%A4%96"/>
+    <img alt="Typing SVG not loaded" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=700&lines=👋+Hi,+I'm+Ali+Ghanbari;🎓+MSc+Data+Science+@+Shahid+Beheshti+University;💡+Exploring+AI+%26+Machine+Learning;📊+Turning+data+into+meaningful+insights;🧠+Passionate+about+research+%26+real-world+data;🛠️+Python+•+R+•+SQL+•+TensorFlow+•+scikit-learn;🚀+Always+learning,+always+improving"/>
   </a>
 </div>
 
