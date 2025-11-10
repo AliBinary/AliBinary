@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali+Ghanbari;%F0%9F%8E%93+MSc+Data+Science+%40+Shahid+Beheshti+University;%F0%9F%92%A1+Exploring+AI+%26+Machine+Learning;%F0%9F%93%8A+Turning+data+into+meaningful+insights;%F0%9F%A7%A0+Passionate+about+research+%26+real-world+data;%F0%9F%9B%A0%EF%B8%8F+Python+%E2%80%A2+R+%E2%80%A2+SQL+%E2%80%A2+TensorFlow+%E2%80%A2+scikit-learn;%F0%9F%9A%80+Always+learning%2C+always+improving"/>
+    <img alt="Typing SVG not loaded!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali+Ghanbari;%F0%9F%8E%93+MSc+Data+Science+%40+SBU;%F0%9F%92%A1+AI+%26+Machine+Learning+Enthusiast;%F0%9F%93%8A+From+Data+to+Insights;%F0%9F%A7%A0+Love+Research+%26+Real+Data;%F0%9F%9B%A0%EF%B8%8F+Python+%E2%80%A2+R+%E2%80%A2+SQL+%E2%80%A2+ML;%F0%9F%9A%80+Always+Learning"/>
   </a>
 </div>
 
