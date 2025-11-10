@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img alt="Typing SVG not loaded" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=700&lines=👋+Hi,+I'm+Ali+Ghanbari;🎓+MSc+Data+Science+@+Shahid+Beheshti+University;💡+Exploring+AI+%26+Machine+Learning;📊+Turning+data+into+meaningful+insights;🧠+Passionate+about+research+%26+real-world+data;🛠️+Python+•+R+•+SQL+•+TensorFlow+•+scikit-learn;🚀+Always+learning,+always+improving"/>
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali+Ghanbari;%F0%9F%8E%93+MSc+Data+Science+%40+Shahid+Beheshti+University;%F0%9F%92%A1+Exploring+AI+%26+Machine+Learning;%F0%9F%93%8A+Turning+data+into+meaningful+insights;%F0%9F%A7%A0+Passionate+about+research+%26+real-world+data;%F0%9F%9B%A0%EF%B8%8F+Python+%E2%80%A2+R+%E2%80%A2+SQL+%E2%80%A2+TensorFlow+%E2%80%A2+scikit-learn;%F0%9F%9A%80+Always+learning%2C+always+improving"/>
   </a>
 </div>
 
@@ -41,17 +41,15 @@
 
 <img width="95%" src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"/>
 
-
 **<h3 align="center">🙃 Rapid Fire</h3>**
 
--   💼 Currently working on: **Frontend development with React, and core topics in Data Mining & AI as a Master's student in Artificial Intelligence. Also sharpening problem-solving and algorithms in C++ for competitive programming.**
+- 💼 Currently working on: **Frontend development with React, and core topics in Data Mining & AI as a Master's student in Artificial Intelligence. Also sharpening problem-solving and algorithms in C++ for competitive programming.**
 
--   🌱 Learning: **React, Python for AI/ML, and a bit of Flutter when time allows.**
+- 🌱 Learning: **React, Python for AI/ML, and a bit of Flutter when time allows.**
 
--   💬 Ask me about: **Competitive programming, learning tech as a beginner, or my journey with React and AI.**
+- 💬 Ask me about: **Competitive programming, learning tech as a beginner, or my journey with React and AI.**
 
--   🧩 Puzzle piece about me: **I'm passionate about music, speedcubing (Rubik's Cube competitions), mathematics, AI, competitive programming, chess, table tennis, and exploring the depths of philosophy!**
-
+- 🧩 Puzzle piece about me: **I'm passionate about music, speedcubing (Rubik's Cube competitions), mathematics, AI, competitive programming, chess, table tennis, and exploring the depths of philosophy!**
 
 ---
 
@@ -93,7 +91,6 @@
 
 ---
 
-
 **<h3 align="center">🔥 GitHub Stats</h3>**
 
 <div align="center">
@@ -107,7 +104,6 @@
 </div>
 
 ---
-
 
 **<h3 align="center">🏆 GitHub Trophies</h3>**
 
