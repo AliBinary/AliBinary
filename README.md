@@ -1,5 +1,7 @@
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://docs.google.com/document/d/1UQgLif4089dNLtOpRrHxkEoPnB53LNWCQFnivTBaWZw/edit?usp=drive_link)
 
+<img width="95%" src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"/>
+
 ![👋 Hi, I'm Ali Ghanbari](Header.gif)
 
 <div align="center">
@@ -7,6 +9,8 @@
     <img alt="Typing SVG not loaded!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Ali+Ghanbari;%F0%9F%8E%93+MSc+Data+Science+%40+SBU;%F0%9F%92%A1+AI+%26+Machine+Learning+Enthusiast;%F0%9F%93%8A+From+Data+to+Insights;%F0%9F%A7%A0+Love+Research+%26+Real+Data;%F0%9F%9B%A0%EF%B8%8F+Python+%E2%80%A2+R+%E2%80%A2+SQL+%E2%80%A2+ML;%F0%9F%9A%80+Always+Learning"/>
   </a>
 </div>
+
+<img width="95%" src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"/>
 
 **<h3 align="center">How To Reach Me</h3>**
 
@@ -34,22 +38,6 @@
   <br />
   <code>2088670_dqAvk5RcUC2v9tJf6FrcZ77c17Zdk2Aq</code>
 </div>
-
-<img width="95%" src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"/>
-        
-**<h3 align="center">I’m Ali, a passionate Computer Science student at Hakim Sabzevari University, with a strong focus on Full-Stack Web Development and Artificial Intelligence. 🚀</h3>**
-
-<img width="95%" src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"/>
-
-**<h3 align="center">🙃 Rapid Fire</h3>**
-
-- 💼 Currently working on: **Frontend development with React, and core topics in Data Mining & AI as a Master's student in Artificial Intelligence. Also sharpening problem-solving and algorithms in C++ for competitive programming.**
-
-- 🌱 Learning: **React, Python for AI/ML, and a bit of Flutter when time allows.**
-
-- 💬 Ask me about: **Competitive programming, learning tech as a beginner, or my journey with React and AI.**
-
-- 🧩 Puzzle piece about me: **I'm passionate about music, speedcubing (Rubik's Cube competitions), mathematics, AI, competitive programming, chess, table tennis, and exploring the depths of philosophy!**
 
 ---
 
