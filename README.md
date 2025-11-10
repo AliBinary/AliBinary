@@ -1,6 +1,8 @@
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://docs.google.com/document/d/1UQgLif4089dNLtOpRrHxkEoPnB53LNWCQFnivTBaWZw/edit?usp=drive_link)
 
-![👋 Hi, I'm Ali Ghanbari](AliGhanbari.gif)
+![👋 Hi, I'm Ali Ghanbari](Header.gif)
+
+![👋 Hi, I'm Ali Ghanbari]("Angel of salvation.gif")
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
