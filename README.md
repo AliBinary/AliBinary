@@ -74,7 +74,8 @@
 **<h3 align="center">🚀 Currently Exploring</h3>**
 
 <div align=center>
-    <a href="#"><img alt="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=react,tensorflow,scikitlearn"></a>
+    <a href="#"><img alt="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,scikitlearn"></a>
+    <!-- <img alt="To-Do" src="https://go-skill-icons.vercel.app/api/icons?i=react"> -->
 </div>
 
 ---
