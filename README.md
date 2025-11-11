@@ -1,7 +1,7 @@
 [![resume](https://img.shields.io/badge/download-En_resume-blue.svg)](https://docs.google.com/document/d/1UQgLif4089dNLtOpRrHxkEoPnB53LNWCQFnivTBaWZw/edit?usp=drive_link)
 [![resume](https://img.shields.io/badge/download-Fa_resume-red.svg)](https://github.com/AliBinary/AliBinary/blob/assets/Ali_Ghanbari_Resume.pdf)
 
-<img width="95%" src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"/>
+<img width="95%" src="https://github.com/AliBinary/AliBinary/blob/assets/Header.gif"/>
 
 ![👋 Hi, I'm Ali Ghanbari](Header.gif)
 
