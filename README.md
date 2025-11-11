@@ -16,7 +16,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/AliBinary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="36"></a>
-  <a href="https://github.com/AliBinary" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="36"></a>
   <a href="https://quera.org/profile/AliBinary" target="_blank"><img src="https://img.shields.io/badge/Quera-blue?style=flat&logoColor=white" height="36"></a>
   <a href="mailto:AliGhanbariCS@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="36"></a>
   <a href="https://t.me/AliTitan051" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=badge&logo=telegram&logoColor=white" height="36"></a>
