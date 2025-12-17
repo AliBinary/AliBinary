@@ -43,39 +43,39 @@
 
 **<h1 align="center">⚒️ My Skills</h1>**
 
-**<h3 align="center">🖥️ Development</h3>**
-
+**<h3 align="center">🐍 Programming Languages</h3>**
 <div align=center>
-    <a href="#"><img alt="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,dart"></a>
-    <!-- <img alt="To-Do" src="https://go-skill-icons.vercel.app/api/icons?i="> -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,matlab,cpp,dart,javascript" />
 </div>
 
-**<h3 align="center">🌐 Web & Mobile</h3>**
-
+**<h3 align="center">🧠 AI, Machine Learning & Deep Learning</h3>**
 <div align=center>
-    <a href="#"><img alt="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=flutter,html,css,bootstrap,tailwindcss"></a>
-    <!-- <img alt="To-Do" src="https://go-skill-icons.vercel.app/api/icons?i=firebase,react,typescript,docker"> -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch,huggingface" />
 </div>
 
-**<h3 align="center">🧠 AI & Data Science</h3>**
-
+**<h3 align="center">📊 Data Analysis & Visualization</h3>**
 <div align=center>
-    <a href="#"><img alt="Done" src="https://go-skill-icons.vercel.app/api/icons?i=matlab,pandas,numpy,matplotlib,jupyter,huggingface"></a>
-    <!-- <img alt="To-Do" src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,seaborn,tensorflow"> -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,pbi,tableau" />
 </div>
 
-**<h3 align="center">🛠️ Tools & Platforms</h3>**
-
+**<h3 align="center">🗄️ Databases</h3>**
 <div align=center>
-    <a href="#"><img alt="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,anaconda,vim,vscode,visualstudio,pycharm,androidstudio,chatgpt"></a>
-    <!-- <img alt="To-Do" src="https://go-skill-icons.vercel.app/api/icons?i=terminal,linux"> -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql" />
 </div>
 
-**<h3 align="center">🚀 Currently Exploring</h3>**
-
+**<h3 align="center">🌐 Web, App & API Testing</h3>**
 <div align=center>
-    <a href="#"><img alt="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,scikitlearn,r"></a>
-    <!-- <img alt="To-Do" src="https://go-skill-icons.vercel.app/api/icons?i=react"> -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,flutter,postman,insomnia" />
+</div>
+
+**<h3 align="center">🛠️ IDEs & Workspace</h3>**
+<div align=center>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,jupyter,googlecolab,anaconda,pycharm" />
+</div>
+
+**<h3 align="center">🚀 Tools & Infrastructure</h3>**
+<div align=center>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,chatgpt" />
 </div>
 
 ---
