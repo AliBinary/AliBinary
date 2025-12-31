@@ -53,7 +53,7 @@
 
 **<h3 align="center">🧠 AI, Machine Learning & Deep Learning</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch,huggingface" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch,kaggle,huggingface" />
 </div>
 
 **<h3 align="center">📊 Data Analysis & Visualization</h3>**
