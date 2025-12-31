@@ -78,7 +78,7 @@
 
 **<h3 align="center">🚀 Tools & Infrastructure</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,chatgpt" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,chatgpt&titles=true" />
 </div>
 
 ---
