@@ -21,6 +21,8 @@
   <a href="mailto:AliGhanbariCS@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="36"></a>
   <a href="https://t.me/AliTitan051" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=badge&logo=telegram&logoColor=white" height="36"></a>
   <a href="https://virgool.io/@AliBinary" target="_blank"><img src="https://img.shields.io/badge/virgool-white?style=flat&logoColor=black" height="36"></a>
+  <a href="https://www.kaggle.com/alibinary" target="_blank"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="36"></a>
+  <a href="https://huggingface.co/AliBinary" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-gray?style=flat&logo=huggingface&logoColor=%23FFD21E" height="36"></a>
   <a href="https://stackoverflow.com/users/18079871/alibinary" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-gold?style=flat&logo=stackoverflow&logoColor=black" height="36"></a>
   <a href="https://www.w3profile.com/AliBinary" target="_blank"><img src="https://img.shields.io/badge/w3schools-darkgreen?style=flat&logo=w3schools&logoColor=white" height="36"></a>
   <a href="https://www.coursera.org/learner/alibinary" target="_blank"><img src="https://img.shields.io/badge/coursera-darkblue?style=flat&logo=coursera" height="36"></a>
@@ -30,8 +32,9 @@
 
 <div align="center">
   <a href="https://quera.org/profile/AliBinary" target="_blank"><img src="https://img.shields.io/badge/Quera-blue?style=flat&logoColor=white" height="36"></a>
-  <a href="https://codeforces.com/profile/AliGhanbari" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" height="36"></a>
-  <a href="https://leetcode.com/AliBinary/" target="_blank"><img src="https://img.shields.io/badge/leetcode-yellow?style=flat&logo=leetcode&logoColor=white" height="36"></a>
+  <a href="https://www.kaggle.com/alibinary" target="_blank"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="36"></a>
+  <a href="https://codeforces.com/profile/AliGhanbari" target="_blank"><img src="https://img.shields.io/badge/CODEFORCES-D6FFFF?style=flat&logo=codeforces&logoColor=%231F8ACB&logoSize=white" height="36"></a>
+  <a href="https://leetcode.com/AliBinary/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-383838?style=flat&logo=leetcode&logoColor=%23FFA116&logoSize=white" height="36"></a>
 
   <br />
   <a href="https://projecteuler.net/friends" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%91%87My%20Key%20in%20Project%20Euler%F0%9F%91%87-orange?style=for-the-badge" height="36" /></a>
