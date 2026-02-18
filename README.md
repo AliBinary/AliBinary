@@ -48,7 +48,7 @@
 
 **<h3 align="center">🐍 Programming Languages</h3>**
 <div align=center>
-    <img src="https://skills.syvixor.com/api/icons?perline=10&i=python,r,matlab,cpp,javascript" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,matlab,cpp,javascript" />
 </div>
 
 **<h3 align="center">🧠 AI, Machine Learning & Deep Learning</h3>**
