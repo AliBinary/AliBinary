@@ -48,37 +48,37 @@
 
 **<h3 align="center">🐍 Programming Languages</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,matlab,cpp,javascript" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,matlab,cpp,javascript&titles=true" />
 </div>
 
 **<h3 align="center">🧠 AI, Machine Learning & Deep Learning</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch&titles=true" />
 </div>
 
 **<h3 align="center">📊 Data Analysis & Visualization</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,pbi,tableau" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,pbi,tableau&titles=true" />
 </div>
 
 **<h3 align="center">🗄️ Databases</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql&titles=true" />
 </div>
 
 **<h3 align="center">🌐 Web & API Testing</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,postman,insomnia" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,postman,insomnia&titles=true" />
 </div>
 
 **<h3 align="center">🛠️ IDEs & Workspace</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,jupyter,googlecolab,anaconda,pycharm" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,jupyter,googlecolab,anaconda,pycharm&titles=true" />
 </div>
 
 **<h3 align="center">🚀 Tools & Infrastructure</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,kaggle,huggingface,chatgpt" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,kaggle,huggingface,chatgpt&titles=true" />
 </div>
 
 ---
