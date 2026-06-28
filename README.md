@@ -1,5 +1,5 @@
-[![resume](https://img.shields.io/badge/download-En_resume-blue.svg)](https://docs.google.com/document/d/1UQgLif4089dNLtOpRrHxkEoPnB53LNWCQFnivTBaWZw/edit?usp=drive_link)
-[![resume](https://img.shields.io/badge/download-Fa_resume-red.svg)](https://github.com/AliBinary/AliBinary/blob/assets/Ali_Ghanbari_Resume.pdf)
+[![Resume (EN)](https://img.shields.io/badge/download-Resume(EN)-blue.svg)](https://docs.google.com/document/d/1UQgLif4089dNLtOpRrHxkEoPnB53LNWCQFnivTBaWZw/edit?usp=drive_link)
+[![Resume (FA)](https://img.shields.io/badge/download-Resume(FA)-red.svg)](https://github.com/AliBinary/AliBinary/blob/assets/Ali_Ghanbari_Resume.pdf)
 
 <img width="95%" src="https://github.com/AliBinary/AliBinary/assets/98009880/8daab69b-5ebd-4d3d-a175-febfcb4a2a7d"/>
 
@@ -48,7 +48,7 @@
 
 **<h3 align="center">🐍 Programming Languages</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,matlab,cpp,javascript&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,dart,cpp,javascript,sql&titles=true" />
 </div>
 
 **<h3 align="center">🧠 AI, Machine Learning & Deep Learning</h3>**
@@ -56,9 +56,9 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch&titles=true" />
 </div>
 
-**<h3 align="center">📊 Data Analysis & Visualization</h3>**
+**<h3 align="center">📊 Data Science</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,pbi,tableau&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,plotly&titles=true" />
 </div>
 
 **<h3 align="center">🗄️ Databases</h3>**
@@ -66,19 +66,24 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql&titles=true" />
 </div>
 
-**<h3 align="center">🌐 Web & API Testing</h3>**
+**<h3 align="center">📱 Mobile Development</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,postman,insomnia&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true" />
 </div>
 
-**<h3 align="center">🛠️ IDEs & Workspace</h3>**
+**<h3 align="center">⚙️ Backend Development</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,jupyter,googlecolab,anaconda,pycharm&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,html,css,postman,insomnia&titles=true" />
 </div>
 
-**<h3 align="center">🚀 Tools & Infrastructure</h3>**
+**<h3 align="center">🛠️ Development Tools</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,kaggle,huggingface,chatgpt&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,jupyter,docker&titles=true" />
+</div>
+
+**<h3 align="center">🤗 AI Platforms</h3>**
+<div align=center>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle,huggingface,chatgpt&titles=true" />
 </div>
 
 ---
