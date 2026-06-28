@@ -83,7 +83,7 @@
 
 **<h3 align="center">🤗 AI Platforms</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle,huggingface,chatgpt&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle,huggingface,chatgpt,gemini&titles=true" />
 </div>
 
 ---
