@@ -78,7 +78,7 @@
 
 **<h3 align="center">🛠️ Development Tools</h3>**
 <div align=center>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,jupyter,docker&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,jupyter,googlecolab,docker&titles=true" />
 </div>
 
 **<h3 align="center">🤗 AI Platforms</h3>**
